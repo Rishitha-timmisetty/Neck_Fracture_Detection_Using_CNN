@@ -1,4 +1,4 @@
-<h1 align="center">neck Spine Fracture Detection Using CNN</h1>
+<h1 align="center">Neck Fracture Detection Using CNN</h1>
 
 <p align="center">
   Developed CNN model for rapid neck fracture detection using CT scans, ensuring swift and accurate diagnosis for improved medical intervention.
