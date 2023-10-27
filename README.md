@@ -6,7 +6,7 @@
 
 ## Overview
 
-- The project centers on the detection of neck spine fractures.
+- The project centers on the detection of neck fractures.
 - A CNN-based model is employed for automated diagnosis.
 - CT scans are the primary imaging modality used for fracture detection.
 
